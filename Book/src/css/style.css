@@ -29,6 +29,10 @@ body{
     
     color: #32325f;
     font-family: "HelveticaNormal";
+    padding: 0;
+    margin: 0;
+
+    
 }
 
 .container {
